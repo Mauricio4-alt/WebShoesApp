@@ -1,0 +1,22 @@
+header{
+    display: inline;
+    padding: auto;
+    align-items: center;
+}
+
+header h1{
+    text-align: center;
+}
+header nav{
+    border: 1px solid black
+}
+ 
+header nav div{
+    text-align: center;
+}
+
+header nav div a{
+    margin: 2px;
+}
+  
+
